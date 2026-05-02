@@ -22,7 +22,7 @@ For more information, please visit:
 ## [日本語] サポート窓口
 ご質問、不具合報告、または機能のご要望は、以下までご連絡ください。
 - メール: studio405_feedback@outlook.com
-- Webフォーム：[お問い合わせフォーム](https://forms.gle/Fao1qzH4spZdDSTh7))
+- Webフォーム：[お問い合わせフォーム](https://forms.gle/Fao1qzH4spZdDSTh7)
 
 ## [日本語] プライバシーポリシー
 ### 1. 外部サービスの利用（広告・解析・クラッシュ報告）
